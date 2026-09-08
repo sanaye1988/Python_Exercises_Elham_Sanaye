@@ -1,1 +1,1 @@
-# Python_Excersizes_Elham_Sanaye
+# Python_Exercises_Elham_Sanaye
