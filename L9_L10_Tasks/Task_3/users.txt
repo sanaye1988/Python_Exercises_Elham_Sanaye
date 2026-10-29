@@ -1,0 +1,2 @@
+101, Ali, ali@gmail.com, active
+2, mina, de, active
