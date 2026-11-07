@@ -1,0 +1,6 @@
+ali|12345|ali@gmail.com|active
+sara|abc789|sara@gmail.com|active
+reza|45678|reza@gmail.com|blocked
+amir|456734|amir@gmail.com|blocked
+elham|347657|eli@gmail.com|active
+iman|35634|im@gmail.com|active
