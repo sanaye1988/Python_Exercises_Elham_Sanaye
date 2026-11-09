@@ -11,9 +11,9 @@ cursor = connection.cursor()
 
 cursor.execute("""CREATE TABLE user_information(
                id INT AUTO_INCREMENT PRIMARY KEY,
-               username VARCHAR(50),
-               password VARCHAR(20),
-               status VARCHAR(10));""")
+               username VARCHAR(50) NOT NULL,
+               password VARCHAR(20) NOT NULL,
+               status VARCHAR(10)) NOT NULL;""")
 
 connection.commit()
 
